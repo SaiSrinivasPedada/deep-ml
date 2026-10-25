@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T10:50:27.840Z",
+  "generated_at": "2026-10-25T11:11:17.658Z",
   "items": {
     "problem:112": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-10-25T10:50:27.174Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1086": {
+      "kind": "problem",
+      "id": "1086",
+      "title": "Add Two Numbers as Linked Lists",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/1086",
+      "path": "problems/1086-add-two-numbers-as-linked-lists",
+      "first_solved_at": "2026-10-25T11:11:16.892Z",
+      "last_pushed_at": "2026-10-25T11:11:16.892Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
