@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 8 problems · 0 labs · 2 math
+**11** solved · 9 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-10-25 | [solution](problems/1151-first-n-fibonacci-numbers) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-25 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-10-25 | [solution](problems/0081-poisson-distribution-probability-calculator) |
+| [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-31 | [solution](problems/1101-select-all-rows) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-10-25 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Valid Palindrome II (Delete At Most One Char)](https://www.deep-ml.com/problems/1160) | easy | 2026-10-25 | [solution](problems/1160-valid-palindrome-ii-delete-at-most-one-char) |
 
