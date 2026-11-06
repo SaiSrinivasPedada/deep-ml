@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:50:00.340Z",
+  "generated_at": "2026-11-06T10:04:44.196Z",
   "items": {
     "problem:112": {
       "kind": "problem",
@@ -295,6 +295,19 @@
       "last_pushed_at": "2026-11-06T09:49:59.524Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-11-06T10:04:43.552Z",
+      "last_pushed_at": "2026-11-06T10:04:43.552Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
