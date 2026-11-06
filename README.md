@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 20 problems · 0 labs · 2 math
+**23** solved · 21 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Count Words Appearing Exactly Once in Each of Two Lists](https://www.deep-ml.com/problems/1141) | easy | 2026-10-25 | [solution](problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists) |
 | [Delete Duplicate Emails Keeping One](https://www.deep-ml.com/problems/1112) | easy | 2026-10-31 | [solution](problems/1112-delete-duplicate-emails-keeping-one) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-31 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-11-06 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-10-31 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-10-31 | [solution](problems/1103-filter-rows-with-where) |
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-10-25 | [solution](problems/1151-first-n-fibonacci-numbers) |
