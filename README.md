@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 35 problems · 0 labs · 2 math
+**38** solved · 36 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Repeat a Vector as Rows](https://www.deep-ml.com/problems/1287) | easy | 2026-11-07 | [solution](problems/1287-tensor-puzzle-repeat-a-vector-as-rows) |
 | [Tensor Puzzle: Reverse a Vector](https://www.deep-ml.com/problems/1278) | easy | 2026-11-07 | [solution](problems/1278-tensor-puzzle-reverse-a-vector) |
 | [Tensor Puzzle: Stack Two Vectors as Rows](https://www.deep-ml.com/problems/1276) | easy | 2026-11-07 | [solution](problems/1276-tensor-puzzle-stack-two-vectors-as-rows) |
+| [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-11-07 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-10-31 | [solution](problems/1106-top-n-with-limit) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-10-25 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-06 | [solution](problems/0002-transpose-of-a-matrix) |
