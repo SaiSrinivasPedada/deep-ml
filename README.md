@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 43 problems · 0 labs · 2 math
+**46** solved · 44 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-08 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Cosine Similarity Between Vectors](https://www.deep-ml.com/problems/76) | easy | 2026-11-06 | [solution](problems/0076-calculate-cosine-similarity-between-vectors) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-11-06 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-11-08 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Count rows per group](https://www.deep-ml.com/problems/1107) | easy | 2026-10-31 | [solution](problems/1107-count-rows-per-group) |
 | [Count Words Appearing Exactly Once in Each of Two Lists](https://www.deep-ml.com/problems/1141) | easy | 2026-10-25 | [solution](problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists) |
 | [Customers Who Never Placed an Order](https://www.deep-ml.com/problems/1460) | easy | 2026-11-07 | [solution](problems/1460-customers-who-never-placed-an-order) |
