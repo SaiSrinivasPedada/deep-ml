@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T07:25:37.438Z",
+  "generated_at": "2026-11-08T10:16:17.818Z",
   "items": {
     "problem:112": {
       "kind": "problem",
@@ -607,6 +607,19 @@
       "last_pushed_at": "2026-11-08T07:25:35.918Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:70": {
+      "kind": "problem",
+      "id": "70",
+      "title": "Calculate Image Brightness",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/70",
+      "path": "problems/0070-calculate-image-brightness",
+      "first_solved_at": "2026-11-08T10:16:17.245Z",
+      "last_pushed_at": "2026-11-08T10:16:17.245Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
