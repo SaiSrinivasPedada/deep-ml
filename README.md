@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 42 problems · 0 labs · 2 math
+**45** solved · 43 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SELECT all rows](https://www.deep-ml.com/problems/1101) | easy | 2026-10-31 | [solution](problems/1101-select-all-rows) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-31 | [solution](problems/1102-select-specific-columns) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-11-08 | [solution](problems/0022-sigmoid-activation-function-understanding) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-08 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Sort results with ORDER BY](https://www.deep-ml.com/problems/1104) | easy | 2026-10-31 | [solution](problems/1104-sort-results-with-order-by) |
 | [Tensor Puzzle: Circular Roll by One](https://www.deep-ml.com/problems/1277) | easy | 2026-11-07 | [solution](problems/1277-tensor-puzzle-circular-roll-by-one) |
 | [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-11-07 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
