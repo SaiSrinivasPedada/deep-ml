@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 49 problems · 0 labs · 2 math
+**52** solved · 50 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Filter rows with WHERE](https://www.deep-ml.com/problems/1103) | easy | 2026-10-31 | [solution](problems/1103-filter-rows-with-where) |
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-10-25 | [solution](problems/1151-first-n-fibonacci-numbers) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-11-08 | [solution](problems/0082-grayscale-image-contrast-calculator) |
+| [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-11-14 | [solution](problems/0045-linear-kernel-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-06 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-10-25 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2026-10-25 | [solution](problems/0081-poisson-distribution-probability-calculator) |
