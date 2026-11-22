@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T10:26:21.964Z",
+  "generated_at": "2026-11-22T10:35:48.629Z",
   "items": {
     "problem:112": {
       "kind": "problem",
@@ -880,6 +880,19 @@
       "last_pushed_at": "2026-11-22T10:26:21.367Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:103": {
+      "kind": "problem",
+      "id": "103",
+      "title": "Implement the SELU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/103",
+      "path": "problems/0103-implement-the-selu-activation-function",
+      "first_solved_at": "2026-11-22T10:35:48.058Z",
+      "last_pushed_at": "2026-11-22T10:35:48.058Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
