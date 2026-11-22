@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**60** solved · 58 problems · 0 labs · 2 math
+**61** solved · 59 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -38,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement F-Score Calculation for Binary Classification](https://www.deep-ml.com/problems/61) | easy | 2026-11-14 | [solution](problems/0061-implement-f-score-calculation-for-binary-classification) |
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-11-14 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-11-14 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-22 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-11-22 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Linear Kernel Function](https://www.deep-ml.com/problems/45) | easy | 2026-11-14 | [solution](problems/0045-linear-kernel-function) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-06 | [solution](problems/0001-matrix-vector-dot-product) |
