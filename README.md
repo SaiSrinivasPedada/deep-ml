@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**70** solved · 68 problems · 0 labs · 2 math
+**71** solved · 69 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -74,6 +74,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Stack Two Vectors as Rows](https://www.deep-ml.com/problems/1276) | easy | 2026-11-07 | [solution](problems/1276-tensor-puzzle-stack-two-vectors-as-rows) |
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-11-07 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Tensor Puzzle: Upper-Triangular Ones Matrix](https://www.deep-ml.com/problems/1273) | easy | 2026-11-07 | [solution](problems/1273-tensor-puzzle-upper-triangular-ones-matrix) |
+| [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-11-28 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Top N with LIMIT](https://www.deep-ml.com/problems/1106) | easy | 2026-10-31 | [solution](problems/1106-top-n-with-limit) |
 | [Top-K Largest Elements in a List](https://www.deep-ml.com/problems/1137) | easy | 2026-10-25 | [solution](problems/1137-top-k-largest-elements-in-a-list) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-06 | [solution](problems/0002-transpose-of-a-matrix) |
